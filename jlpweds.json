@@ -1,6 +1,6 @@
 [
   {
-    "category": "cars",
+    "category": "Cars",
     "description": "Premium vehicles for the perfect Baraat and guest transportation.",
     "subcategories": [
       {
@@ -9,10 +9,12 @@
         "price": "₹3,999 onwards",
         "vendorName": "Royal Car Rentals",
         "location": "Jalalpur",
-        "description": "The rugged choice for a grand entry, chauffeur-driven.",
+        "description": "The rugged choice for a grand entry, chauffeur-driven. Price based on usage/time or calculated per km for fixed trips.",
+        "basePrice": 1000,
+        "pricePerKm": 25,
         "images": [
           "https://i.pinimg.com/1200x/21/83/7d/21837dd4e4ad3a8597f6bfbd235588b7.jpg",
-          "https://i.pinimg.com/73x/8a/a8/5a/8aa85a0c3f59e6c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/8a/a8/5a/8aa85a0c3f59e6c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -21,7 +23,9 @@
         "price": "₹2,500 onwards",
         "vendorName": "Royal Car Rentals",
         "location": "Akbarpur",
-        "description": "Comfortable and modern sedan for close family and guests.",
+        "description": "Comfortable and modern sedan for close family and guests. Price based on usage/time or calculated per km for fixed trips.",
+        "basePrice": 800,
+        "pricePerKm": 18,
         "images": [
           "https://i.pinimg.com/736x/4a/8b/7f/4a8b7fa07cced3c4592ed78e6120585b.jpg"
         ]
@@ -32,7 +36,9 @@
         "price": "₹3,000 onwards",
         "vendorName": "Royal Car Rentals",
         "location": "Tanda",
-        "description": "Reliable SUV for local travel and large family transport.",
+        "description": "Reliable SUV for local travel and large family transport. Price based on usage/time or calculated per km for fixed trips.",
+        "basePrice": 900,
+        "pricePerKm": 22,
         "images": [
           "https://i.pinimg.com/1200x/81/8f/af/818faffc0fe404c7080cb93bb72c9f5c.jpg"
         ]
@@ -43,7 +49,9 @@
         "price": "₹8,500 onwards",
         "vendorName": "Elite Motors",
         "location": "Jalalpur",
-        "description": "Luxury sedan for the groom's entry or VIP transport.",
+        "description": "Luxury sedan for the groom's entry or VIP transport. Price based on usage/time or calculated per km for fixed trips.",
+        "basePrice": 3000,
+        "pricePerKm": 40,
         "images": [
           "https://i.pinimg.com/1200x/91/54/6a/91546a2db37d4848982d22929d53be6c.jpg"
         ]
@@ -54,7 +62,9 @@
         "price": "₹7,500 onwards",
         "vendorName": "Heritage Rides",
         "location": "Akbarpur",
-        "description": "Classic look for a timeless wedding album.",
+        "description": "Classic look for a timeless wedding album. Price based on usage/time or calculated per km for fixed trips.",
+        "basePrice": 1500,
+        "pricePerKm": 30,
         "images": [
           "https://i.pinimg.com/736x/da/c5/9c/dac59cba1d523a2a3d28c56950bb51c9.jpg"
         ]
@@ -62,7 +72,7 @@
     ]
   },
   {
-    "category": "Marriage Halls",
+    "category": "Wedding Halls",
     "description": "Beautiful marriage and banquet halls for grand celebrations.",
     "subcategories": [
       {
@@ -73,7 +83,7 @@
         "location": "Jalalpur",
         "description": "Spacious lawn and covered banquet area for 500+ guests.",
         "images": [
-          "https://i.pinimg.com/1200x/8d/97/23/8d97233c230cee75871acc5135b70201.jpg"
+          "https://i.pinimg.com/73x/e4/f0/a2/e4f0a28f73f0a28f73f0a28f73f0a28f73f0a28f73f0a28f73f0.jpg"
         ]
       },
       {
@@ -84,7 +94,7 @@
         "location": "Akbarpur",
         "description": "Premium hall with in-house catering options.",
         "images": [
-          "https://i.pinimg.com/1200x/0c/e5/69/0ce5696868819e784615678db209f58c.jpg"
+          "https://pinimgjlpweds.netlify.app/pinimg/cars/car1.png"
         ]
       },
       {
@@ -95,7 +105,7 @@
         "location": "Tanda",
         "description": "Luxurious resort for destination wedding vibes.",
         "images": [
-          "https://i.pinimg.com/736x/ae/91/8d/ae918d723bcc84209d38b97d0a368819.jpg"
+          "https://i.pinimg.com/73x/1a/0a/6e/1a0a6e61f2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -106,7 +116,7 @@
         "location": "Jalalpur",
         "description": "Simple, traditional, and affordable hall for smaller gatherings.",
         "images": [
-          "https://i.pinimg.com/1200x/86/ab/5e/86ab5e3fe5a5fc8686e3450b1ccf46ef.jpg"
+          "https://i.pinimg.com/73x/3b/4c/3d/3b4c3d2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -117,7 +127,7 @@
         "location": "Akbarpur",
         "description": "Beautiful outdoor setting near the water for evening receptions.",
         "images": [
-          "https://i.pinimg.com/736x/80/8e/19/808e1930c6920d7e704b88ccb3b375b4.jpg"
+          "https://i.pinimg.com/73x/5c/4b/3c/5c4b3c2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       }
     ]
@@ -156,7 +166,7 @@
         "location": "Jalalpur",
         "description": "White/Gold Chivari style chairs with cushions.",
         "images": [
-          "https://i.pinimg.com/73x/9f/6e/b7/9f6eb73f3c5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/9f/6e/b7/9f6eb73f3c5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -184,8 +194,8 @@
         "location": "Akbarpur",
         "description": "Two days coverage with 4K camera and professional editing.",
         "images": [
-          "https://i.pinimg.com/736x/00/5a/70/005a7033d72a5d3197c619fa3d39b05a.jpg",
-          "https://i.pinimg.com/1200x/81/18/af/8118af29a07d8f85fb6dbbd77acb07f5.jpg"
+          "https://i.pinimg.com/73x/b5/e0/8a/b5e08a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg",
+          "https://i.pinimg.com/73x/c9/e9/8b/c9e98b7e28f73f0a28f73f0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -196,7 +206,7 @@
         "location": "Jalalpur",
         "description": "Full coverage including drone shots, pre-wedding shoot, and album.",
         "images": [
-          "https://i.pinimg.com/73x/d4/f1/a2/d4f1a28f73f0a28f73f0a28f73f0a28f73f0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/d4/f1/a2/d4f1a28f73f0a28f73f0a28f73f0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -224,7 +234,7 @@
         "location": "Jalalpur",
         "description": "Elegant decoration using high-quality roses and lilies.",
         "images": [
-          "https://i.pinimg.com/73x/5f/7c/4a/5f7c4a0e3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/5f/7c/4a/5f7c4a0e3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -264,7 +274,7 @@
         "description": "Traditional bridal makeup including hair styling and saree draping.",
         "images": [
           "https://i.pinimg.com/1200x/21/83/7d/21837dd4e4ad3a8597f6bfbd235588b7.jpg",
-          "https://i.pinimg.com/73x/8a/a8/5a/8aa85a0c3f59e6c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/8a/a8/5a/8aa85a0c3f59e6c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -275,7 +285,7 @@
         "location": "Akbarpur",
         "description": "High-definition airbrush makeup for a flawless, long-lasting look.",
         "images": [
-          "https://i.pinimg.com/73x/1b/2c/3d/1b2c3d4e6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/1b/2c/3d/1b2c3d4e6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -297,7 +307,7 @@
         "location": "Jalalpur",
         "description": "Budget-friendly option for family members and guests.",
         "images": [
-          "https://i.pinimg.com/73x/3d/4e/5f/3d4e5f6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/3d/4e/5f/3d4e5f6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -347,7 +357,7 @@
         "location": "Akbarpur",
         "description": "Fast and beautiful designs for guests and family members.",
         "images": [
-          "https://i.pinimg.com/73x/1a/0d/b3/1a0db3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/1a/0d/b3/1a0db3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
@@ -358,7 +368,7 @@
         "location": "Jalalpur",
         "description": "Specialist in dense, detailed Rajasthani and Indian traditional styles.",
         "images": [
-          "https://i.pinimg.com/73x/3c/4d/5e/3c4d5e9f6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/73x/3c/4d/5e/3c4d5e9f6a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
         ]
       },
       {
