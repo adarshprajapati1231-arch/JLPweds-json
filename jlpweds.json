@@ -1,6 +1,6 @@
 [
   {
-    "category": "gadiya",
+    "category": "cars",
     "description": "Premium vehicles for the perfect Baraat and guest transportation.",
     "subcategories": [
       {
@@ -62,7 +62,7 @@
     ]
   },
   {
-    "category": "Wedding Halls",
+    "category": "Marriage Halls",
     "description": "Beautiful marriage and banquet halls for grand celebrations.",
     "subcategories": [
       {
@@ -84,7 +84,7 @@
         "location": "Akbarpur",
         "description": "Premium hall with in-house catering options.",
         "images": [
-          "https://pinimgjlpweds.netlify.app/pinimg/cars/car1.png"
+          "https://i.pinimg.com/1200x/0c/e5/69/0ce5696868819e784615678db209f58c.jpg"
         ]
       },
       {
@@ -95,7 +95,7 @@
         "location": "Tanda",
         "description": "Luxurious resort for destination wedding vibes.",
         "images": [
-          "https://i.pinimg.com/73x/1a/0a/6e/1a0a6e61f2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/736x/ae/91/8d/ae918d723bcc84209d38b97d0a368819.jpg"
         ]
       },
       {
@@ -106,7 +106,7 @@
         "location": "Jalalpur",
         "description": "Simple, traditional, and affordable hall for smaller gatherings.",
         "images": [
-          "https://i.pinimg.com/73x/3b/4c/3d/3b4c3d2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/1200x/86/ab/5e/86ab5e3fe5a5fc8686e3450b1ccf46ef.jpg"
         ]
       },
       {
@@ -117,7 +117,7 @@
         "location": "Akbarpur",
         "description": "Beautiful outdoor setting near the water for evening receptions.",
         "images": [
-          "https://i.pinimg.com/73x/5c/4b/3c/5c4b3c2e5a8f0c3f5a0c3f5a0c3f5a0c3f5a0c3f5a0.jpg"
+          "https://i.pinimg.com/736x/80/8e/19/808e1930c6920d7e704b88ccb3b375b4.jpg"
         ]
       }
     ]
